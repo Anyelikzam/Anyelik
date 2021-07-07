@@ -9,7 +9,7 @@
 
 <center><img style="border-radius: 150px; border: 5px solid white; margin-top: 50px; margin-bottom: 50px;" src="http://anverso.co/images/somos/Anyelik.jpg" alt="Anyelik">
   <h1>Angélica Zambrano</h1>
-  <h2>BOGOTÁ D.C.</h2>
+  <p>BOGOTÁ D.C.</p>
     
     </center>
 
