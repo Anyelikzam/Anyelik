@@ -1,1 +1,18 @@
-<p>HolaMundo</p> 
+<html>
+<body>
+<h1>Titulo</h1>
+<h2>Subtitulo o también puntos inferiores.</h2>
+
+<h3></h3>
+
+....hasta <h6></h6>
+
+<p>Párrafo</p>
+
+<b>Negrita</b>
+
+<a href="https://google.es">Esto es un enlace</a>
+
+</body>
+
+</html>
