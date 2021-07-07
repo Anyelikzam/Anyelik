@@ -1,17 +1,12 @@
 <html>
-<body>
-<h1>Titulo</h1>
-<h2>Subtitulo o también puntos inferiores.</h2>
 
-<h3></h3>
+<body style="margin: 0px; background: #0e0e0e; height: 100%">
 
-....hasta <h6></h6>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Bogot%C3%A1_Colpatria_Night.jpg" alt="Bogotá" />
 
-<p>Párrafo</p>
+<h1>Anyelik</h1>
 
-<b>Negrita</b>
-
-<a href="https://google.es">Esto es un enlace</a>
+<h2>Bogotá D.C.</h2>
 
 </body>
 
