@@ -4,11 +4,9 @@
   <div style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/24/Bogot%C3%A1_Colpatria_Night.jpg');">
 
 <p><img style="border-top-left-radius: 150px; border-top-right-radius: 150px; border-bottom-right-radius: 150px; border-bottom-left-radius: 150px; box-shadow: #fff 1px 1px 0px 10px; margin-top: 10px; margin-bottom: 10px;" src="http://anverso.co/images/somos/Anyelik.jpg" alt="Anyelik">
-Angelica Zambrano.</p>
+</p>
 
-<h1>Anyelik</h1>
 
-<h2>Bogotá D.C.</h2>
   </div>
 </body>
 
